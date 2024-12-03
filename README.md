@@ -1,2 +1,4 @@
 # Kyle-Bennett-Laud
-Laud, Kyle Bennett
+Name: Laud, Kyle Bennett
+Education: IT Student
+Certifications: 
