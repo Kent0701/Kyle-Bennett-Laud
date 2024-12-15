@@ -13,5 +13,5 @@
   | CERTIFICATE | ISSUED BY | DATE ISSUED |
   | :---------------: | :----------: | :--------------:|
   |<a href= "https://courses.cognitiveclass.ai/certificates/3f3265390a784461a5b4ef060a13c69f">SQL and RELATION DATABASE 101 </a> | Cognitive Class | December 8, 2024
-  |<a href="https://catalog-education.oracle.com/apex/f?p=1010:2:103334349881552::NO:RP:P2_AUTHCODE,P2_AUTH_KEY,P2_ARG_INVALID_CNT:aw217241pP33s,vkzOt217169SJkr2851GRjR,0">Oracle Cloud Infrastructure 2024</a> | Oracle | December 8, 2024
+  |<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=14144256C18B28C974347BFDD0FB1EBFC4A22CF008532DA911C6E8995BB31EB4&fbclid=IwY2xjawHLqoJleHRuA2FlbQIxMQABHYKuXfc5eFeG5AVLgXsdhP5kb75LlIw-_oVEOE6-1bHWc1ecoHn7fM7b-A_aem_gngO3xDLdktlAU5hP3OY9w">Oracle Cloud Infrastructure 2024</a> | Oracle | December 8, 2024
 </div>
